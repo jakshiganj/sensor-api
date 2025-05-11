@@ -1,5 +1,0 @@
-flask
-tensorflow
-pandas
-requests
-gunicorn
